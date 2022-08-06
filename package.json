@@ -1,0 +1,18 @@
+{
+  "name": "slot-pake-pulsa",
+  "main": "./lib/slot-pake-pulsa",
+  "version": "1.0.0",
+  "description": "Daftar Nama Lengkap Hack Apk Slot Pake Pulsa Joker Gaming",
+  "keywords": ["slot joker123","situs slot online terpercaya","cq9 slot online","agen slot online","habanero slot","slot pg soft","toto slot","slot online terbaik","slot spade gaming","toto slot","slot online"],
+
+  "activationCommands": {
+    "atom-workspace": "slot-pake-pulsa:toggle"
+  },
+  "repository": "https://github.com/trikslot/slot-pake-pulsa",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
