@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Cara Main Gacor Hack Apk Slot Pake Pulsa Langsung Dapat Bonus Tanpa Deposit](https://atom.io/packages/slot-pake-pulsa)
-## :gift: klik untuk [Mulai Main Dan Mendaftar](https://agentotoplay.net/promo/) :dart: <<< 
-## :fire: klik untuk [Daftar Sekarang](https://agentotoplay.net/promo/) :fire: <<< 
-## :8ball: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/register/) :snowflake: <<< 
+## :gift: klik untuk [Mulai Main Dan Mendaftar](https://golinkurl.github.io/promo/) :dart: <<< 
+## :fire: klik untuk [Daftar Sekarang](https://golinkurl.github.io/promo/) :fire: <<< 
+## :8ball: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/register/) :snowflake: <<< 
 
 ## Informasi Situs /Server Kami : 
 
